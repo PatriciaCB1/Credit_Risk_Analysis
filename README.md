@@ -30,7 +30,7 @@ Using the imbalanced-learn and scikit-learn libraries, I evaluated three machine
 
 ### Naive Random Oversampling
 
-![Naive ROS](https://github.com/PatriciaCB1/Amazon_Vine_Analysis/blob/main/Images/Review%20ID%20Table.png) 
+![Naive ROS](https://github.com/PatriciaCB1/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampler.png) 
 
 ## Use the SMOTEENN algorithm to Predict Credit Risk
 
@@ -38,15 +38,15 @@ Using knowledge of the imbalanced-learn and scikit-learn libraries, I used a com
 
 ### SMOTE Oversampling
 
-![Oversampling](https://github.com/PatriciaCB1/Amazon_Vine_Analysis/blob/main/Images/Review%20ID%20Table.png) 
+![Oversampling](https://github.com/PatriciaCB1/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling.png) 
 
 ### Undersampling
 
-![Undersampling](https://github.com/PatriciaCB1/Amazon_Vine_Analysis/blob/main/Images/Products%20table.png)
+![Undersampling](https://github.com/PatriciaCB1/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
 
 ### Combination (Over and Under) Sampling
 
-![Combination](https://github.com/PatriciaCB1/Amazon_Vine_Analysis/blob/main/Images/Customers%20table.png)
+![Combination](https://github.com/PatriciaCB1/Credit_Risk_Analysis/blob/main/Images/Combination%20(Over%20and%20Under)%20Sampling.png)
 
 
 ## Use Ensemble Classifiers to Predict Credit Risk
@@ -55,10 +55,10 @@ Using knowledge of the imblearn.ensemble library, I trained and compared two dif
 
 ### Balanced Random Forest Classifier
 
-![Balanced Random Forest](https://github.com/PatriciaCB1/Amazon_Vine_Analysis/blob/main/Images/vine%20table.png)
+![Balanced Random Forest](https://github.com/PatriciaCB1/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.png)
 
 ### Easy Ensemble Classifier
-![Easy Ensemble Classifier](https://github.com/PatriciaCB1/Amazon_Vine_Analysis/blob/main/Images/vine%20table.png)
+![Easy Ensemble Classifier](https://github.com/PatriciaCB1/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20Classifier.png)
 
 ## Results
 
